@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background: #ffe6e6;
+    color: #333;
+    padding: 20px;
+  }
+  
+  .container {
+    background: white;
+    max-width: 600px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #e6005c;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background: #ff4d88;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  #result {
+    margin-top: 30px;
+    font-size: 1.2em;
+    text-align: center;
+  }
+  
